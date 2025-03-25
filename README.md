@@ -47,11 +47,14 @@ The app uses [DummyJSON](https://dummyjson.com/products) for product data.
 ### Catalog Screen
 
 The main screen showing products grid with category filters and search functionality.
+![2](https://github.com/user-attachments/assets/552324e1-9b4a-408f-b5df-15d6e9f9b878)
 
 ### Cart Screen
 
 Shows all items added to cart with quantity controls and total price.
+![3](https://github.com/user-attachments/assets/a7ea898e-231a-4454-bd07-6e083d9222fc)
 
 ### Product Details Screen
 
 Detailed view of a product with its images, description, and specifications.
+![1](https://github.com/user-attachments/assets/4515f4d3-7565-4051-84d5-27f78b460743)
